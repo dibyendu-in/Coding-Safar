@@ -1,7 +1,7 @@
 << Documentation
 Name:Dibyendu Barman
 Date:19/Sept/2022
-Description: Write a script to print the length of each and every string using arrays.
+Description: A6. Write a script to print the length of each and every string using arrays.
 Sample Input: bash A6.sh hello hai how are you?
 Sample Output:
 Length of string (hello) - 5
