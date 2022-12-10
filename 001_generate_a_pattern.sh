@@ -1,7 +1,7 @@
 << Documentation
 Name: Dibyendu Barman
 Date:15/Sept/2022
-Description: Write a program read n and generate a pattern given below ( Number increments from left to right )
+Description: A1. Write a program read n and generate a pattern given below ( Number increments from left to right )
 Sample Input: 5
 Sample Output:
 1
