@@ -55,7 +55,7 @@ int main()
     printf("Enter the no. of elements : ");
     scanf("%d", &size); //reading the integer input from user
 
-    int *ptr = malloc(size * sizeof(int)); //dinamic memory allocation
+    int *ptr = malloc(size * sizeof(int)); //dynamic memory allocation
 
     printf("Enter the 10 elements:\n");
     for (i = 0; i < size; i++)
