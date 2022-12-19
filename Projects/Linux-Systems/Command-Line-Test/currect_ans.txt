@@ -1,0 +1,5 @@
+c : 12-month
+a : 7-days
+a : 365-days
+c : 7
+d : 4
