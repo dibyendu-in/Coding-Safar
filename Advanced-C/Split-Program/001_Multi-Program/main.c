@@ -1,5 +1,5 @@
-#include<stdio.h>
-#include"library.h"
+#include<stdio.h> //System header file
+#include"library.h" //Local header file
 #include"function_def.c"
 
 int main()
