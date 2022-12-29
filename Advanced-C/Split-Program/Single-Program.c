@@ -1,5 +1,6 @@
 #include<stdio.h>
 
+/* Function Declaration */
 int add(int x, int y);
 int sub(int x, int y);
 
@@ -11,11 +12,13 @@ int main()
     return 0;
 }
 
+/* Function Definition */
 int add(int x, int y)
 {
     return x + y;
 }
 
+/* Function Definition */
 int sub(int x, int y)
 {
     return x - y;
