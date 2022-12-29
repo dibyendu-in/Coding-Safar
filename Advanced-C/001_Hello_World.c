@@ -1,7 +1,7 @@
 #include <stdio.h>
 int main() 
 {
-   // First C Program
+   // My First C Program
    printf("Hello, World!");
    return 0;
 }
