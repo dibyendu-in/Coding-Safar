@@ -4,7 +4,7 @@ int main()
 {
 	char str[10], copy_str[10];
 	scanf("%s", str);
-    int i = 0;
+        int i = 0;
 	while(str[i] != '\0')
 	{
 	   copy_str[i] = str[i];
