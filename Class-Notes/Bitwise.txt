@@ -1,1 +1,15 @@
-*Bitwise AND (&)*
+Bitwise AND ('&')
+1.Check the bit set or not
+2.Clear the bit
+x & 0 = 0 // x is bit 0/1
+x & 1 = x // x is bit 0/1
+
+Bitwise OR ('|')
+1.Set the bit
+x | 1 = 1 // x is bit 0/1
+X | 0 = x // x is bit 0/1
+
+Bitwise OR ('^')
+1.Toggle the bit
+x ^ 1 = !x // x is bit 0/1
+X ^ 0 = x // x is bit 0/1
