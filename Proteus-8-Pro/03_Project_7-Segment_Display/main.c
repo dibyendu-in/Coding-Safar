@@ -1,7 +1,7 @@
 /*
  * File:   main.c
  * Author: DIBYENDU BARMAN
- * Description: Display 0 to 9 on 7-Segment Display
+ * Description: Display 0 to 9 on 7-Segment Display (Common Cathode)
  *
  * Created on June 15, 2023, 7:20 PM
  */
