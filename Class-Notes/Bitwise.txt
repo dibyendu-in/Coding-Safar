@@ -13,3 +13,8 @@ Bitwise OR ('^')
 1.Toggle the bit
 x ^ 1 = !x // x is bit 0/1
 X ^ 0 = x // x is bit 0/1
+
+Set the nth bit -> num | (1 << (n-1))
+Clear the nth bit -> num & ~(1 << (n-1))
+Toggle the nth bit -> num ^ (1 << (n-1))
+Set last n bits -> num | ((1 << n)-1)  or num | ((2^n)-1)
